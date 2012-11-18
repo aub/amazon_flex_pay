@@ -1,7 +1,5 @@
 # load the support libraries
 require 'test/unit'
-require 'rubygems'
-gem 'rails', '3.2.5'
 require 'mocha'
 
 # load the gem
